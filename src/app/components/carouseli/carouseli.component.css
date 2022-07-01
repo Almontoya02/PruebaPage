@@ -1,0 +1,10 @@
+.carousel{
+    width: 99vw;
+    height: 40vh;
+    display: inline-flex;
+    align-items: center;
+    justify-content: inherit;
+    overflow-x: scroll;
+    
+    
+}

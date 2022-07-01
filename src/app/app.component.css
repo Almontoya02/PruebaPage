@@ -1,0 +1,22 @@
+.col-2{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.col-10{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+
+}
+.containerOptions{
+    overflow: hidden;
+    background-color:rgb(252, 250, 250);
+}
+.AllContent{
+    height: 81.6vh;
+    background-color: brown;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
